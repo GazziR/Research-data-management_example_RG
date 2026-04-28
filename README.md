@@ -6,8 +6,8 @@ Email: rafaela.gazzi@unibe.ch
 
 Formulation development and stability study
 
-Private funding
-
 # Funding information
+
+Private funding
 
 # License
